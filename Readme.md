@@ -31,7 +31,9 @@
 12. In the **blobdemo{unique name}** **- Blobs** window, in the menu bar, click **Container**.
 
 ![MOD14_DEMO_L3](https://github.com/ialcaidef/AzureStorageDemo_How-to-Upload-an-Image-to-Microsoft-Azure-Blob-Storage/blob/master/Images/01.png)
+
 ![MOD14_DEMO_L3](https://github.com/ialcaidef/AzureStorageDemo_How-to-Upload-an-Image-to-Microsoft-Azure-Blob-Storage/blob/master/Images/02.png)
+
 ![MOD14_DEMO_L3](https://github.com/ialcaidef/AzureStorageDemo_How-to-Upload-an-Image-to-Microsoft-Azure-Blob-Storage/blob/master/Images/03.png)
 
 13. In the **New container** window, in the **Name** box, type **myfirstcontainer**.
@@ -49,6 +51,8 @@
 18. In File Explorer, browse to **[Repository Root]\Allfiles\Mod14\Democode\02_AzureStorageDemo_Images**, click **blackberries.jpg**, and then click **Open**.
 
 19. In the **Upload blob** window, click **Upload**.
+
+![MOD14_DEMO_L3](https://github.com/ialcaidef/AzureStorageDemo_How-to-Upload-an-Image-to-Microsoft-Azure-Blob-Storage/blob/master/Images/05.png)
 
 20. Close the **Upload blob** window.
 
@@ -85,6 +89,8 @@
 
 31. In the **Connected Service** window, click **Cloud Storage with Azure Storage**.
 
+![MOD14_DEMO_L3](https://github.com/ialcaidef/AzureStorageDemo_How-to-Upload-an-Image-to-Microsoft-Azure-Blob-Storage/blob/master/Images/06.png)
+
 32. In the **Azure Storage** window, sign in to the Azure account.
 
    >**Note**: In case you are already signed in, you will not see the sign-in dialog box. In that case, proceed to the next step.
@@ -96,6 +102,10 @@
 34. In Microsoft Edge, click **Close**.
 
 35. In the **AzureStorageDemo – Microsoft Visual Studio** window, in Solution Explorer, click **appsettings.json**.
+
+![MOD14_DEMO_L3](https://github.com/ialcaidef/AzureStorageDemo_How-to-Upload-an-Image-to-Microsoft-Azure-Blob-Storage/blob/master/Images/07.png)
+
+![MOD14_DEMO_L3](https://github.com/ialcaidef/AzureStorageDemo_How-to-Upload-an-Image-to-Microsoft-Azure-Blob-Storage/blob/master/Images/08.png)
 
 36. In the **appsettings.json** window, highlight the following code, and then right-click and click **Copy**.
 
@@ -208,11 +218,15 @@
 65.	In the **Blobs** window, click **myimagecontainer**.
 
     >**Note**: Verify the presence of the uploaded image.
+    
+    ![MOD14_DEMO_L3](https://github.com/ialcaidef/AzureStorageDemo_How-to-Upload-an-Image-to-Microsoft-Azure-Blob-Storage/blob/master/Images/09.png)
 
 66. Click **fungi.jpg**.
 
 67. Click **Edit blob**.
 
     >**Note**: The uploaded image is displayed.
+    
+    ![MOD14_DEMO_L3](https://github.com/ialcaidef/AzureStorageDemo_How-to-Upload-an-Image-to-Microsoft-Azure-Blob-Storage/blob/master/Images/10.png)
 
 68. Close all the Microsoft Edge windows.
