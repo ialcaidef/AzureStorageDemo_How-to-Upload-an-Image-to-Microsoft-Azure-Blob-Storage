@@ -30,7 +30,13 @@
 
 12. In the **blobdemo{unique name}** **- Blobs** window, in the menu bar, click **Container**.
 
+![MOD14_DEMO_L3](https://github.com/ialcaidef/AzureStorageDemo_How-to-Upload-an-Image-to-Microsoft-Azure-Blob-Storage/blob/master/Images/01.png)
+![MOD14_DEMO_L3](https://github.com/ialcaidef/AzureStorageDemo_How-to-Upload-an-Image-to-Microsoft-Azure-Blob-Storage/blob/master/Images/02.png)
+![MOD14_DEMO_L3](https://github.com/ialcaidef/AzureStorageDemo_How-to-Upload-an-Image-to-Microsoft-Azure-Blob-Storage/blob/master/Images/03.png)
+
 13. In the **New container** window, in the **Name** box, type **myfirstcontainer**.
+
+![MOD14_DEMO_L3](https://github.com/ialcaidef/AzureStorageDemo_How-to-Upload-an-Image-to-Microsoft-Azure-Blob-Storage/blob/master/Images/04.png)
 
 14. In the **New container** window, in the **Public access level** list, click **Blob(anonymous read access for blobs only)**, and then click **OK**.
 
@@ -75,7 +81,7 @@
 
      >**Note**: If a **Security Warning for AzureStorageDemo** dialog box appears, verify that the **Ask me for every project in this solution** check box is cleared, and then click OK.
 
-30. In the **AzureStorageDemo – Microsoft Visual Studio** window, in Solution Explorer, right-click **AzureStorageDemo**,  point to **Add**, and then click **Connected Service**.
+30. In the **AzureStorageDemo â€“ Microsoft Visual Studio** window, in Solution Explorer, right-click **AzureStorageDemo**,  point to **Add**, and then click **Connected Service**.
 
 31. In the **Connected Service** window, click **Cloud Storage with Azure Storage**.
 
@@ -89,7 +95,7 @@
 
 34. In Microsoft Edge, click **Close**.
 
-35. In the **AzureStorageDemo – Microsoft Visual Studio** window, in Solution Explorer, click **appsettings.json**.
+35. In the **AzureStorageDemo â€“ Microsoft Visual Studio** window, in Solution Explorer, click **appsettings.json**.
 
 36. In the **appsettings.json** window, highlight the following code, and then right-click and click **Copy**.
 
@@ -97,7 +103,7 @@
       AzureStorageConnectionString-1
 ```
 
-37.	In the **AzureStorageDemo – Microsoft Visual Studio** window, in Solution Explorer,  expand **Controllers**, and then click **BlobController.cs**.
+37.	In the **AzureStorageDemo â€“ Microsoft Visual Studio** window, in Solution Explorer,  expand **Controllers**, and then click **BlobController.cs**.
 
 38.	In the **BlobController.cs** window, locate the following code:
 
@@ -123,7 +129,7 @@
 
 45. Close the **NuGet Package Manager: AzureStorageDemo** window.
 
-46. In the **AzureStorageDemo – Microsoft Visual Studio** window, in Solution Explorer, click **BlobController.cs**.
+46. In the **AzureStorageDemo â€“ Microsoft Visual Studio** window, in Solution Explorer, click **BlobController.cs**.
 
 47. In the **BlobController.cs** code window, locate the following code:
 
@@ -177,7 +183,7 @@
 
 53. In the **AzureStorageDemo - Microsoft Visual Studio** window, on the **FILE** menu, click **Save All**.
 
-54. In the **AzureStorageDemo – Microsoft Visual Studio** window, on the **DEBUG** menu, click **Start Without Debugging**.
+54. In the **AzureStorageDemo â€“ Microsoft Visual Studio** window, on the **DEBUG** menu, click **Start Without Debugging**.
 
 55.	In Microsoft Edge, click **Upload New Image**.
 
